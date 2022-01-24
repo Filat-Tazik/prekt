@@ -1,0 +1,267 @@
+* wqr{
+outline: 1px solid pink;
+}
+.title--text {
+   margin-bottom: 70px;
+    margin-right:900;
+    margin-left: 90;
+    padding-bottom: 10;
+    margin-top: 100;
+    font-size: 27;
+    color: white;
+}
+.site-header {
+      display: flex;
+    background-color: white;
+}
+.kontakti {
+    display: flex;
+    margin-bottom: 100;
+    margin-top: 50;
+}
+.VK {
+     margin-right: 100;
+    margin-left: 750;
+    margin-top:9;
+    color: black;
+}
+.nomer {
+    margin-left: 70;
+   margin-top:9;
+    color: black;
+}
+.site-header {
+    background: #B6B6B4;
+    padding-bottom: 20;
+}
+body {
+  background: whate;
+  height: 100%;
+}
+.border-button:before, .border-button:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  box-sizing: border-box;
+}
+.border-button:before {
+  bottom: 0;
+  left: 0;
+  border-left: 1px solid blue;
+  border-top: 1px solid blue;
+  transition: 0s ease opacity .8s, .2s ease width .4s, .2s ease height .6s;
+}
+.border-button:after {
+  top: 0;
+  right: 0;
+  border-right: 1px solid blue;
+  border-bottom: 1px solid blue;
+  transition: 0s ease opacity .4s, .2s ease width, .2s ease height .2s;
+}
+.border-button:hover:before, 
+.border-button:hover:after {
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+}
+.border-button:hover:before {
+  transition: 0s ease opacity 0s, .2s ease height, .2s ease width .2s;
+}
+.border-button:hover:after {
+  transition: 0s ease opacity .4s, .2s ease height .4s, .2s ease width .6s;
+}
+.border-button:hover {
+  background: rgba(255, 255, 255, .2);
+}
+.knopka-:before, .knopka-:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  box-sizing: border-box;
+}
+.knopka-:before {
+  bottom: 0;
+  left: 0;
+  border-left: 1px solid blue;
+  border-top: 1px solid blue;
+  transition: 0s ease opacity .8s, .2s ease width .4s, .2s ease height .6s;
+}
+.knopka-:after {
+  top: 0;
+  right: 0;
+  border-right: 1px solid blue;
+  border-bottom: 1px solid blue;
+  transition: 0s ease opacity .4s, .2s ease width, .2s ease height .2s;
+}
+.knopka-:hover:before, 
+.knopka-:hover:after {
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+}
+.knopka-:hover:before {
+  transition: 0s ease opacity 0s, .2s ease height, .2s ease width .2s;
+}
+.knopka-:hover:after {
+  transition: 0s ease opacity .4s, .2s ease height .4s, .2s ease width .6s;
+}
+.knopka-:hover {
+  background: rgba(255, 255, 255, .2);
+}
+.knopka--:before, .knopka--:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  box-sizing: border-box;
+}
+.knopka--:before {
+  bottom: 0;
+  left: 0;
+  border-left: 1px solid blue;
+  border-top: 1px solid blue;
+  transition: 0s ease opacity .8s, .2s ease width .4s, .2s ease height .6s;
+}
+.knopka--:after {
+  top: 0;
+  right: 0;
+  border-right: 1px solid blue;
+  border-bottom: 1px solid blue;
+  transition: 0s ease opacity .4s, .2s ease width, .2s ease height .2s;
+}
+.knopka--:hover:before, 
+.knopka--:hover:after {
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+}
+.knopka--:hover:before {
+  transition: 0s ease opacity 0s, .2s ease height, .2s ease width .2s;
+}
+.knopka--:hover:after {
+  transition: 0s ease opacity .4s, .2s ease height .4s, .2s ease width .6s;
+}
+.knopka--:hover {
+  background: rgba(255, 255, 255, .2);
+}
+.razdeli {
+    display: flex;
+}
+.sport {
+    margin-left: 150;
+}
+.border-button {
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  position: relative;
+  color: blue;
+  border: 1px solid rgba(255, 255, 255, .4);
+  background: none;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 130px;
+    margin-left: -150;
+      margin-bottom: ;
+   
+}
+.rock {
+  display: flex;      
+    }
+.porno {
+    display: flex;
+}
+.gumanitarie {
+     margin-left: 270;
+}
+.razdelitel {
+    display: flex;
+}
+.tehnika {
+     margin-left: 200;
+}
+.knopka-- {
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  position: relative;
+  color: blue;
+  border: 1px solid rgba(255, 255, 255, .4);
+  background: none;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 130px;
+        margin-left: -175;
+    margin-bottom: ;
+}
+.knopka- {
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  position: relative;
+  color: blue;
+  border: 1px solid rgba(255, 255, 255, .4);
+  background: none;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+    margin-top: 130px;
+        margin-left: -193;
+      margin-bottom: ;
+}
+.tto {
+    display: flex;
+    
+}
+.nomer {
+    margin-left:-40;
+}
+.VK {
+    margin-left: 1000;
+}
+.kontakti {
+    background: url("Shool.jpg") 0.0/250px.300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+* wqr{
+outline: 1px solid pink;
+}
+.home {
+    margin-left: 400;
+}
+.rucovoditel {
+    display: flex;
+    margin-top: 15;
+}
+.rock {
+    margin-right: 50;
+}
+.oliver {
+    margin-top: ;
+}
+.dane {
+   margin-left: 20; 
+}
+.voditel {
+     display: flex;
+    margin-top: 15;
+}
+.rok{
+     margin-right: 50;
+}
+.olever {
+     margin-top: ;
+}
+.dane {
+    margin-top: 40;
+}
+.vaditel {
+     display: flex;
+    margin-top: 15;
+}
+.rak {
+    margin-right: 50;
+}
+.aliver {
+      margin-top: ;
+}
+body {
+    background: url("2022-01-24-17-10-53.png") 0.0/250px.300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.rek {
+    margin-bottom: 70;
+      margin-right: 50;
+}
+
+
+
+
